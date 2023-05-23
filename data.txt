@@ -1,0 +1,7 @@
+1, 45, 75, 100, 2, 4, 4, 6, 7, 10, 
+nama 1, nama 2, nama 3, nama 4, nama 5, 
+Nama         : Maulana Baktiar Ramadhan
+NIM          : 22201304
+Alamat       : jl soekarno hatta
+Usia         : 20
+Tinggi badan : 165.5
